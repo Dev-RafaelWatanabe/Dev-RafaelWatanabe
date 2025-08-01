@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=247a4d&size=35&center=true&vCenter=true&width=1000&lines=Hello+World!+my+name+is+Rafael+Watanabe;I'm+a+Fullstack+Developer;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-## 👤 &nbsp;About Me
+## 🧑‍💻 &nbsp;About Me
 
 Turning ideas into practical solutions is the core of my work. Since 2020, I have enthusiastically immersed myself in the world of fullstack development. My journey is marked by a passion for creating tools that optimize workflows and building complete systems, from front-end to back-end. I believe that continuous learning is the key to innovation, and every project is an opportunity to hone my skills and deliver impactful results.
 
