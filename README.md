@@ -39,7 +39,7 @@ Turning ideas into practical solutions is the core of my work. Since 2020, I hav
 
 ### Tools
 
-[![Development Tools](https://skillicons.dev/icons?i=docker,postman,git,github,figma,vercel,linux,windows,vscode,npm,fastapi)](https://github.com/Dev-RafaelWatanabe)
+[![Development Tools](https://skillicons.dev/icons?i=docker,postman,git,github,figma,vercel,linux,windows,vscode,npm,fastapi,selenium,pandas,numpy)](https://github.com/Dev-RafaelWatanabe)
 
 ### Back-end
 
@@ -52,6 +52,7 @@ Turning ideas into practical solutions is the core of my work. Since 2020, I hav
 ### Database
 
 [![Database Skills](https://skillicons.dev/icons?i=mysql,sqlite,mongodb)](https://github.com/Dev-RafaelWatanabe)
+
 
 <br>
 
