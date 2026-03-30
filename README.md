@@ -15,7 +15,7 @@ Turning ideas into practical solutions is the core of my work. Since 2020, I hav
 
 ### Connect with me
 
-<a href = "mailto:rafaelwatanabecontact@gmail.com" style="text-decoration: none;"><img src="https://img.shields.io/badge/-Gmail-67cb57?style=for-the-badge&logo=gmail&logoColor=fff" target="_blank"></a>
+<a href = "mailto:rafael@watanabetecnologia.com" style="text-decoration: none;"><img src="https://img.shields.io/badge/-Gmail-67cb57?style=for-the-badge&logo=gmail&logoColor=fff" target="_blank"></a>
 <a href="https://www.linkedin.com/in/dev-rafaelwatanabe/" target="_blank" style="text-decoration: none;"><img src="https://img.shields.io/badge/-LinkedIn-67cb57?style=for-the-badge&logo=linkedin&logoColor=fff" target="_blank"></a>
 
 ---
