@@ -31,7 +31,7 @@ Turning ideas into practical solutions is the core of my work. Since 2020, I hav
 
 ### Back-end
 
-[![Back-end Development Skills](https://skillicons.dev/icons?i=python,nodejs,django,typescript)](https://github.com/Dev-RafaelWatanabe)
+[![Back-end Development Skills](https://skillicons.dev/icons?i=python,java,nodejs,django,typescript)](https://github.com/Dev-RafaelWatanabe)
 
 ### Front-end
 
