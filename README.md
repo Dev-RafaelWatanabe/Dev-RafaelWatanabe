@@ -4,14 +4,15 @@
 
 ## 🧑‍💻 &nbsp;About Me
 
-Turning ideas into practical solutions is the core of my work. Since 2020, I have enthusiastically immersed myself in the world of fullstack development. My journey is marked by a passion for creating tools that optimize workflows and building complete systems, from front-end to back-end. I believe that continuous learning is the key to innovation, and every project is an opportunity to hone my skills and deliver impactful results.
+Turning ideas into practical solutions is the core of my work. Since 2020, I have been building fullstack systems from the ground up. Currently, my focus has expanded to implementing automation and AI-powered infrastructure for real-world business environments, spanning from front-end to back-end, with an emphasis on intelligent systems that generate measurable results. Every project is an opportunity to deliver something that actually works in production.
 
 ### Quick Facts
 
 - 💻 Experienced with Javascript, Python, ReactJs, Typescript and NodeJS
 - 🎓 Currently studying Systems Analysis and Development at Unic University in Cuiabá - MT
-- 📚 I'm currently learning Go and automation tools.
-- 🚀 Automation creator for optimizing repetitive processes
+- 🤖 Building process automation systems and AI-powered infrastructure for business operations
+- 📚 Currently deepening my knowledge in AI-driven automation and applied machine learning for business workflows
+- 🚀 Focused on delivering end-to-end systems that reduce friction and scale operations
 
 ### Connect with me
 
