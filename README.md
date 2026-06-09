@@ -1,6 +1,6 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=247a4d&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2f88c3&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=247a4d&size=35&center=true&vCenter=true&width=1000&lines=Hello+World!+my+name+is+Rafael+Watanabe;I'm+a+Fullstack+Developer;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=2f88c3&size=35&center=true&vCenter=true&width=1000&lines=Hello+World!+my+name+is+Rafael+Watanabe;I'm+a+Fullstack+Developer;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 ## 🧑‍💻 &nbsp;About Me
 
@@ -16,8 +16,8 @@ Turning ideas into practical solutions is the core of my work. Since 2020, I hav
 
 ### Connect with me
 
-<a href = "mailto:rafael@watanabetecnologia.com" style="text-decoration: none;"><img src="https://img.shields.io/badge/-Gmail-67cb57?style=for-the-badge&logo=gmail&logoColor=fff" target="_blank"></a>
-<a href="https://www.linkedin.com/in/dev-rafaelwatanabe/" target="_blank" style="text-decoration: none;"><img src="https://img.shields.io/badge/-LinkedIn-67cb57?style=for-the-badge&logo=linkedin&logoColor=fff" target="_blank"></a>
+<a href = "mailto:rafael@watanabetecnologia.com" style="text-decoration: none;"><img src="https://img.shields.io/badge/-Gmail-2f88c3?style=for-the-badge&logo=gmail&logoColor=fff" target="_blank"></a>
+<a href="https://www.linkedin.com/in/dev-rafaelwatanabe/" target="_blank" style="text-decoration: none;"><img src="https://img.shields.io/badge/-LinkedIn-2f88c3?style=for-the-badge&logo=linkedin&logoColor=fff" target="_blank"></a>
 
 ---
 
