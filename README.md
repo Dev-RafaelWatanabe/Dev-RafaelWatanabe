@@ -46,7 +46,7 @@ Turning ideas into practical solutions is the core of my work. Since 2020, I hav
 <br>
 
 <div align="center">
-    <img src="https://komarev.com/ghpvc/?username=Dev-RafaelWatanabe&color=247a4d" alt="Profile views" />
+    <img src="https://komarev.com/ghpvc/?username=Dev-RafaelWatanabe&color=2f88c3" alt="Profile views" />
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=247a4d&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2f88c3&height=120&section=footer"/>
