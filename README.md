@@ -40,7 +40,7 @@ Turning ideas into practical solutions is the core of my work. Since 2020, I hav
 
 ### Database
 
-[![Database Skills](https://skillicons.dev/icons?i=mysql,sqlite,mongodb)](https://github.com/Dev-RafaelWatanabe)
+[![Database Skills](https://skillicons.dev/icons?i=mysql,sqlite,mongodb,postgresql)](https://github.com/Dev-RafaelWatanabe)
 
 
 <br>
