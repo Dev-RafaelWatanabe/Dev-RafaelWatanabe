@@ -9,7 +9,7 @@ Turning ideas into practical solutions is the core of my work. Since 2020, I hav
 ### Quick Facts
 
 - 💻 Experienced with Javascript, Python, ReactJs, Typescript, NodeJS, Java, Docker, MySQL and PostgreSQL
-- 🎓 Graduated in Systems Analysis and Development
+- 🎓 Graduated in Systems Analysis and Development in Cuiabá
 - 🤖 Building process automation systems and AI-powered infrastructure for business operations
 - 📚 Currently deepening my knowledge in AI-driven automation and applied machine learning for business workflows
 - 🚀 Focused on delivering end-to-end systems that reduce friction and scale operations
