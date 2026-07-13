@@ -36,7 +36,7 @@ Turning ideas into practical solutions is the core of my work. Since 2020, I hav
 
 ### Front-end
 
-[![Front-end Development Skills](https://skillicons.dev/icons?i=html,css,js,react,next,vite,tailwind,styledcomponents,bootstrap)](https://github.com/Dev-RafaelWatanabe)
+[![Front-end Development Skills](https://skillicons.dev/icons?i=html,css,js,react,next,vite,tailwind,bootstrap)](https://github.com/Dev-RafaelWatanabe)
 
 ### Database
 
