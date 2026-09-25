@@ -1,22 +1,25 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2f88c3&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=2f88c3&size=35&center=true&vCenter=true&width=1000&lines=Hello+World!+my+name+is+Rafael+Watanabe;I'm+a+Fullstack+Developer;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?color=2f88c3&size=28&center=true&vCenter=true&width=900&lines=Hello+World!+my+name+is+Rafael+Watanabe;Fullstack+Developer+%7C+AI+for+business;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 ## 🧑‍💻 &nbsp;About Me
 
-Turning ideas into practical solutions is the core of my work. Since 2020, I have been building fullstack systems from the ground up. Currently, my focus has expanded to implementing automation and AI-powered infrastructure for real-world business environments, spanning from front-end to back-end, with an emphasis on intelligent systems that generate measurable results. Every project is an opportunity to deliver something that actually works in production.
+I build systems and automations that start from the business process, not from the technology. Before writing any code, I try to understand how the routine actually works, where it breaks and how much that costs in time and rework. Only then do I decide which solution makes sense.
+
+I have been studying programming since 2020 and working in tech since 2022. I develop web systems from interface to database: React, TypeScript and Vite on the front, FastAPI and SQLAlchemy on the back, JWT authentication with role based permissions, Redis for caching and pub/sub, and containerized deployment with Docker. I also design automation pipelines with Python and n8n that integrate language models into business routines: extracting structured data from PDFs and images, reconciling financial records, classifying entries with agents and building knowledge bases with vector search for natural language queries.
 
 ### Quick Facts
 
-- 💻 Experienced with Javascript, Python, ReactJs, Typescript, NodeJS, Java, Docker, MySQL and PostgreSQL
+- 💻 Working daily with Python, FastAPI, React, TypeScript, MySQL, Redis and Docker
+- 🤖 Building process automations with Python and n8n, including document reading and data reconciliation with LLMs
+- 🧠 Integrating language models into business routines: extraction, classification and agents
+- 📚 Currently deepening my knowledge in RAG, vector databases and AI agents
 - 🎓 Graduated in Systems Analysis and Development in Cuiabá
-- 🤖 Building process automation systems and AI-powered infrastructure for business operations
-- 📚 Currently deepening my knowledge in AI-driven automation and applied machine learning for business workflows
-- 🚀 Focused on delivering end-to-end systems that reduce friction and scale operations
+- 🚀 Focused on end-to-end systems that reduce manual work and deliver measurable results
 
 ### Connect with me
 
-<a href = "mailto:rafael@watanabetecnologia.com" style="text-decoration: none;"><img src="https://img.shields.io/badge/-Gmail-2f88c3?style=for-the-badge&logo=gmail&logoColor=fff" target="_blank"></a>
+<a href = "mailto:rafaelwatanabecontact@gmail.com" style="text-decoration: none;"><img src="https://img.shields.io/badge/-Gmail-2f88c3?style=for-the-badge&logo=gmail&logoColor=fff" target="_blank"></a>
 <a href="https://www.linkedin.com/in/dev-rafaelwatanabe/" target="_blank" style="text-decoration: none;"><img src="https://img.shields.io/badge/-LinkedIn-2f88c3?style=for-the-badge&logo=linkedin&logoColor=fff" target="_blank"></a>
 
 ---
@@ -26,21 +29,30 @@ Turning ideas into practical solutions is the core of my work. Since 2020, I hav
 
 ## 🛠 &nbsp;Languages & Techs
 
-### Tools
-
-[![Development Tools](https://skillicons.dev/icons?i=docker,postman,git,github,figma,vercel,linux,windows,apple,vscode,npm,fastapi,selenium,pandas,numpy)](https://github.com/Dev-RafaelWatanabe)
-
 ### Back-end
 
-[![Back-end Development Skills](https://skillicons.dev/icons?i=python,java,nodejs,django,typescript)](https://github.com/Dev-RafaelWatanabe)
+[![Back-end Development Skills](https://skillicons.dev/icons?i=python,java,typescript,nodejs,django)](https://github.com/Dev-RafaelWatanabe)
 
 ### Front-end
 
-[![Front-end Development Skills](https://skillicons.dev/icons?i=html,css,js,react,next,vite,tailwind,bootstrap)](https://github.com/Dev-RafaelWatanabe)
+[![Front-end Development Skills](https://skillicons.dev/icons?i=react,ts,js,html,css,bootstrap,tailwind)](https://github.com/Dev-RafaelWatanabe)
 
-### Database
+### Database & Cache
 
-[![Database Skills](https://skillicons.dev/icons?i=mysql,sqlite,mongodb,postgresql)](https://github.com/Dev-RafaelWatanabe)
+[![Database Skills](https://skillicons.dev/icons?i=mysql,postgresql,mongodb,redis,sqlite)](https://github.com/Dev-RafaelWatanabe)
+
+### AI & Automation
+
+![LLMs via API](https://img.shields.io/badge/LLMs%20via%20API-2f88c3?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-2f88c3?style=for-the-badge)
+![Agents](https://img.shields.io/badge/AI%20Agents-2f88c3?style=for-the-badge)
+![n8n](https://img.shields.io/badge/n8n-2f88c3?style=for-the-badge&logo=n8n&logoColor=fff)
+
+[![Automation Skills](https://skillicons.dev/icons?i=selenium,pandas,numpy)](https://github.com/Dev-RafaelWatanabe)
+
+### Tools & Infra
+
+[![Development Tools](https://skillicons.dev/icons?i=docker,git,github,postman,linux,apple,vscode,npm,figma,vercel,fastapi)](https://github.com/Dev-RafaelWatanabe)
 
 
 <br>
